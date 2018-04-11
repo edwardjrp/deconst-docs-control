@@ -1,7 +1,7 @@
 {
     "deconst.horse": {
         "routes": {
-            "^/rst-lab/": "default.html",
+            "^/": "default.html",
             "^/search/?$": "search.html"
         }
     }
