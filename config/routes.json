@@ -5,4 +5,11 @@
             "^/search/?$": "search.html"
         }
     }
+    ,
+	"deconst1.horse": {
+        "routes": {
+            "^/rst-lab": "default.html",
+            "^/search/?$": "search.html"
+        }
+    }    
 }
