@@ -8,8 +8,8 @@
     ,
 	"deconst1.horse": {
         "routes": {
-            "^/rst-lab": "default.html",
-            "^/search/?$": "search.html"
+            "^/rst-lab/": "deconst.horse/default.html",
+            "^/search/?$": "deconst.horse/search.html"
         }
     }    
 }
