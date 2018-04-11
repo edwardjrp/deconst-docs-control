@@ -1,3 +1,4 @@
 [
-  { "kind": "github", "project": "deconst/deconst-docs" }
+  { "kind": "github", "project": "deconst/deconst-docs" },
+  { "kind": "github", "project": "edwa2394/rst" }
 ]
