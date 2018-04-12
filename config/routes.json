@@ -1,8 +1,8 @@
 {
     "deconst.horse": {
         "routes": {
-            "^/": "default.html",
-            "^/search/?$": "search.html"
+            "^/": "deconst.horse/default.html",
+            "^/search/?$": "deconst.horse/search.html"
         }
     }
 }
